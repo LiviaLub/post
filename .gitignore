@@ -1,0 +1,7 @@
+# ignore .idea folder and files #
+############
+.idea/
+.idea/futjakot.iml	
+.idea/misc.xml	
+.idea/modules.xml	
+.idea/workspace.xml
